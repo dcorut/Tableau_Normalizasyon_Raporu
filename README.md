@@ -1,0 +1,1 @@
+# hafta_3_tableau_normalizasyon
